@@ -2,7 +2,7 @@
 
 An enterprise-grade, multi-tenant B2B SaaS platform designed to audit, analyze, and score corporate visibility across modern Generative AI Search Engines (ChatGPT, Gemini, Perplexity) and Visual Discovery Platforms (Pinterest, Instagram, TikTok). 
 
-Built utilizing the analytical data science rigor of **IBM**, the high-intent cluster methodologies of **DemandJump**, the traffic ROI frameworks of **NP Digital**, and the account-based pipeline strategies of **DemandScience**.
+Built utilizing the analytical data science rigor, the high-intent cluster methodologies, the traffic ROI frameworks, and the account-based pipeline strategies.
 
 ---
 
