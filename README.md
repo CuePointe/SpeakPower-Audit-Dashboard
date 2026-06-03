@@ -10,10 +10,10 @@ Built utilizing the analytical data science rigor, the high-intent cluster metho
 
 The application utilizes a top-tier navigation architecture containing advanced "Tools & Deep Dives" accessible via a responsive command-center interface:
 
-* **Intent & Content Gap Analysis (DemandJump Style):** Visualizes competitive Share of Voice (SoV) and automatically charts missing content clusters against real-time consumer query trends.
-* **AI SEO & Share of Voice Dashboard (NP Digital Style):** Tracks traditional organic positions against modern Generative Engine Optimization (GEO) citations, factoring in dynamic Traffic Value and ROI metrics.
-* **Predictive Lead Scoring & Funnel (DemandScience Style):** Runs predictive models to assign a Buying Intent Score (0–100) to audited data segments and tracks conversion drops across the discovery funnel.
-* **Technical Data Science Sandbox (IBM Style):** Inspects raw code architectures—specifically Schema Markup completeness, Entity Density, Core Web Vitals, and AI Readability—backed by a live-streaming data profiling terminal.
+* **Intent & Content Gap Analysis:** Visualizes competitive Share of Voice (SoV) and automatically charts missing content clusters against real-time consumer query trends.
+* **AI SEO & Share of Voice Dashboard:** Tracks traditional organic positions against modern Generative Engine Optimization (GEO) citations, factoring in dynamic Traffic Value and ROI metrics.
+* **Predictive Lead Scoring & Funnel:** Runs predictive models to assign a Buying Intent Score (0–100) to audited data segments and tracks conversion drops across the discovery funnel.
+* **Technical Data Science Sandbox:** Inspects raw code architectures—specifically Schema Markup completeness, Entity Density, Core Web Vitals, and AI Readability—backed by a live-streaming data profiling terminal.
 * **Automated Client Proposal Generator:** A server-side printing engine that compiles analytics, tables, and data charts from all deep-dive screens into a white-labeled, client-ready PDF proposal.
 
 ---
